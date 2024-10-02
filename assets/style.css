@@ -1,0 +1,35 @@
+header {
+  text-align: center;
+}
+
+header h4 {
+  /* prende solo gli h4 dentro header, evitando per sbaglio di applicare
+    questo colore di sfondo anche ad altri h4 */
+  background-color: #fffbe3;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 2px solid gold;
+}
+
+header img {
+  /* logo */
+  margin-top: 15px;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main img {
+  width: 100%;
+}
+
+main h2 {
+  text-align: center;
+}
